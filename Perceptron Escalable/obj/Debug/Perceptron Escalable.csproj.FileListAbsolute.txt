@@ -1,0 +1,7 @@
+C:\Users\pc\AppData\Local\Temporary Projects\Perceptron Escalable\bin\Debug\Perceptron Escalable.exe.config
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Perceptron Escalable\Perceptron Escalable\bin\Debug\Perceptron Escalable.exe.config
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Perceptron Escalable\Perceptron Escalable\bin\Debug\Perceptron Escalable.exe
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Perceptron Escalable\Perceptron Escalable\bin\Debug\Perceptron Escalable.pdb
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Perceptron Escalable\Perceptron Escalable\obj\Debug\Perceptron Escalable.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Perceptron Escalable\Perceptron Escalable\obj\Debug\Perceptron Escalable.exe
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Perceptron Escalable\Perceptron Escalable\obj\Debug\Perceptron Escalable.pdb
